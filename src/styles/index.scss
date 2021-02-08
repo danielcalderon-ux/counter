@@ -1,4 +1,21 @@
 @import "~bootstrap/scss/bootstrap.scss";
+.bigCounter{
+
+    text-align: center;
+    background: gray;
+}
+
+.numero {
+display: inline-block;
+font-size: 60px;
+line-height: 60px;
+height: 80px;
+background: black;
+color: white;
+padding: 10px;
+margin: 3px;
+
+}
 
 /* 
 
